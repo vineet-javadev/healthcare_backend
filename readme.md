@@ -16,6 +16,10 @@ This is a Spring Boot application for managing healthcare services. The applicat
 - Spring Boot
 - Spring Web
 - Maven (for dependency management)
+- MySql (for Storage)
+
+### Run Command for Create Database in Mysql command line client
+- `CREATE database healthcare_db;`
 
 ## API Endpoints
 
